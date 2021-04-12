@@ -1,0 +1,4 @@
+name: BlankPlugin
+version: 1.0.0
+author: Yslan Ramos (@Tsugami)
+main: me.yslanramos.blankplugin.Main

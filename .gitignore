@@ -6,6 +6,9 @@
 .settings/
 .project
 
+# Intellij IDEA stuff
+.gradle
+
 # ignore other java files
 bin/
 .classpath
